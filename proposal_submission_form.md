@@ -1,8 +1,8 @@
 ### 2019 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `YOUR TEAM NUMBER HERE`  
+#### Team Number: `308`  
 
-#### Team Name: `YOUR TEAM NAME HERE`    
+#### Team Name: `Game of Codes`    
   
 #### Your team’s hackathon idea in TWO sentences:
 ##### `YOUR TWO SENTENCES HERE`
@@ -12,13 +12,13 @@
 - ##### `YOUR DATASETS HERE`
 - ##### `YOUR DATASETS  HERE`
 
-#### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
+#### Team Coordinator GitHub Username: `albertchai01`
 
 #### Team Members
 | ## |        Name         | Active SDSU student? | Female active SDSU student? | Active SDSU veteran? | 14th grade (college 2nd year) or younger? |
 | -- | :------------------ |        :---:         |            :---:            |        :---:         |                  :---:                    |
-| 01 | Test Name           |         [X]          |             [ ]             |         [ ]          |                   [ ]                     |
-| 02 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 01 | Albert Chai         |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
+| 02 | Kevin Gonzalez      |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 03 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 04 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
 | 05 |                     |         [ ]          |             [ ]             |         [ ]          |                   [ ]                     |
@@ -31,8 +31,8 @@
 #### A question your team is answering (check a box OR provide a question your team created)
 
 **Smart City**
-- [x] How can San Diegans have better options for parking in high-traffic areas to void congestion?
-- [x] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
+- [ ] How can San Diegans have better options for parking in high-traffic areas to void congestion?
+- [ ] How can we get an emergency vehicle to the scene in shortest possible time can save lives?
 - [ ] Your question:
 
 **Smart Environment**
@@ -50,8 +50,8 @@
 - [ ] Your question:
 
 **Smart Health**
-- [ ] How can we share useful public health information and web analytical tools for improve public health in San Diego?
-- [ ] What chronic diseases affect San Diegans and how can these conditions be managed daily?
+- [X] How can we share useful public health information and web analytical tools for improve public health in San Diego?
+- [X] What chronic diseases affect San Diegans and how can these conditions be managed daily?
 - [ ] Your question:
 
 
